@@ -18,6 +18,8 @@ Calcul de réseau :https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatri
 
 calcul CRC: https://www.ghsi.de/pages/subpages/Online%20CRC%20Calculation/index.php
 
+Calcul ipV6 : https://www.site24x7.com/fr/tools/ipv6-sous-reseau-calculatrice.html
+
 FLAG TCP :
 
 ACK : Reception                                 (A en scapy)
