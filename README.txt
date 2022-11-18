@@ -20,6 +20,8 @@ calcul CRC: https://www.ghsi.de/pages/subpages/Online%20CRC%20Calculation/index.
 
 Calcul ipV6 : https://www.site24x7.com/fr/tools/ipv6-sous-reseau-calculatrice.html
 
+hex calc (checksum) : https://www.calculator.net/hex-calculator.html
+
 FLAG TCP :
 
 ACK : Reception                                 (A en scapy)
